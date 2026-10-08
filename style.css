@@ -1,49 +1,67 @@
+/* ========================================================
+   ESTILOS GLOBAIS DA PÁGINA ESPACIAL (ORION)
+   ======================================================== */
 body {
   background-color: black;
   margin: 5%;
+  color: white;
+  overflow-x: hidden;
 }
 
+/* Títulos Principais */
 h1 {
   color: white;
   margin: 2%;
   padding: 2%;
   text-align: center;
+  font-family: 'Georgia', serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
      
 h2 {
   text-align: center;
-  color: white;
+  color: #e0e0e0;
   font-family: 'Times New Roman', Times, serif;
+  margin-top: 30px;
 }
 
+/* Parágrafos e Textos Informativos */
 p { 
-  color: white;
+  color: #cccccc;
   font-family: 'Times New Roman', Times, serif;
   font-size: 170%;
+  line-height: 1.6;
 }
 
+/* Containers e Caixas */
 div {
   background-color: rgb(0, 0, 0);
   font-family: 'Times New Roman', Times, serif;
   color: white;
-  padding: 0%;
-  margin: 0%;
- 
+  padding: 10px;
+  margin: 10px 0;
 }
 
+/* Linhas Divisórias dos Planetas */
 hr {
   height: 5px;
   background-color: white; 
-  border: none;           
+  border: none;            
+  margin: 40px 0;
 }
 
+/* Rodapé da Página */
 footer {
   background-color: rgb(55, 58, 61);
+  padding: 20px;
+  text-align: center;
+  margin-top: 50px;
 }
 
 h5 {
   color: rgb(255, 255, 255);
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: xx-large;
+  margin: 0;
 }
-
