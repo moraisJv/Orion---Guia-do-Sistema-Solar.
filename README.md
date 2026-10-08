@@ -1,5 +1,5 @@
-# Orion---Guia-do-Sistema-Solar.
-Projetos - independentes
+# Orion-Guia-do-Sistema-Solar.
+(PI)-Projetos - independentes
 
 # 🪐 Orion — Guia Interativo do Sistema Solar
 
