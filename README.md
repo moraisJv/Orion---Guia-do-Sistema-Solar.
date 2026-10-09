@@ -1,33 +1,32 @@
-# Orion-Guia-do-Sistema-Solar.
-(PI)-Projetos - independentes
+(PI) - Independent Projects
 
-# 🪐 Orion — Guia Interativo do Sistema Solar
+# 🪐 Orion — Interactive Solar System Guide
 
 <p align="center">
   <img src="https://shields.io" alt="HTML5">
   <img src="https://shields.io" alt="CSS3">
 </p>
 
-> Uma jornada visual e informativa pelos mistérios do nosso sistema planetário. 🚀
+> A visual and informative journey through the mysteries of our planetary system. 🚀
 
-O **Orion** é uma página web puramente informativa, projetada para quem ama astronomia. O site combina um layout limpo e moderno com uma leitura agradável, organizando curiosidades e dados sobre os planetas de forma simétrica e elegante.
+**Orion** is a purely informative webpage designed for astronomy enthusiasts. The site combines a clean, modern layout with a pleasant reading experience, organizing facts and trivia about the planets in an elegant, symmetrical way.
 
 ---
 
-## O que torna este projeto legal?
+## What makes this project cool?
 
-* **Imersão Visual:** Imagens espaciais perfeitamente posicionadas nas laterais da tela usando técnicas modernas de CSS.
-* **Leitura Confortável:** Conteúdo textual centralizado no meio da página, facilitando a navegação pelos dados de cada planeta.
-* **Design Limpo:** Linhas divisórias (`<hr>`) com espessuras personalizadas que separam as eras e as seções astronômicas com suavidade.
-* **Foco no Conteúdo:** Sem distrações, focado 100% em trazer informações rápidas e fascinantes sobre o cosmos.
+* **Visual Immersion:** Space imagery perfectly positioned at the sides of the screen using modern CSS techniques.
+* **Comfortable Reading:** Text content centered on the page, making it easy to navigate through data for each planet.
+* **Clean Design:** Divider lines (`<hr>`) with custom thicknesses that smoothly separate eras and astronomical sections.
+* **Content-Focused:** No distractions; 100% focused on delivering quick, fascinating information about the cosmos.
 
-##  Tecnologias de Base
+## Core Technologies
 
-Para dar vida ao universo na tela do navegador, foram utilizadas apenas duas ferramentas essenciais:
-* **HTML5:** Para estruturar os textos, títulos e a hierarquia das informações dos planetas.
-* **CSS3:** Para controlar toda a estética espacial, incluindo o uso de **Flexbox** para o alinhamento das imagens e elementos na tela.
+To bring the universe to life in the browser, only two essential tools were used:
+* **HTML5:** To structure the text, headings, and the hierarchy of planetary information.
+* **CSS3:** To control the space-themed aesthetics, including the use of **Flexbox** to align images and elements on the screen.
 
 
 <p align="center">
-  Criado por <a href="https://github.com">Seu Nome</a> 🌟
+  Created by <a href="https://github.com">Your Name</a> 🌟
 </p>
