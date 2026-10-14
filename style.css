@@ -1,67 +1,72 @@
-/* ========================================================
-   ESTILOS GLOBAIS DA PÁGINA ESPACIAL (ORION)
-   ======================================================== */
-body {
-  background-color: black;
-  margin: 5%;
-  color: white;
-  overflow-x: hidden;
+body{
+     background-color: black;
+     margin: 5%; color: white;
+    
 }
-
-/* Títulos Principais */
-h1 {
-  color: white;
-  margin: 2%;
-  padding: 2%;
-  text-align: center;
-  font-family: 'Georgia', serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
+.container-imagens {
+    background-color: #000000;
+    border: 2px solid #ffffff;
+    border-radius: 16px;
+    padding: 1px;
+    margin: auto;
+}
+hr{
+    padding: 000%;
+    color:#000000a2
+}
+ h1{
+     color: white;
+     margin: 2%;
+     padding: 2%;
+     text-align: center;
 }
      
-h2 {
-  text-align: center;
-  color: #e0e0e0;
-  font-family: 'Times New Roman', Times, serif;
-  margin-top: 30px;
+h2{
+     text-align: center;
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+}
+p{ 
+     color: white;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 170%;
+}
+div{
+     background-color: rgb(0, 0, 0);
+     font-family: 'Times New Roman', Times, serif;
+     color: white;
+     padding: 0%;
+     margin: 0%;
+     align-items: center;
+}
+.box{
+     background-color: #000000a2;
+     border: 2px solid #490000;  
+     border-radius: 8px;        
+     padding: 20px;             
+     margin: 20px 0;           
+     color: #ffffff;
+     font-size:x-large
 }
 
-/* Parágrafos e Textos Informativos */
-p { 
-  color: #cccccc;
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 170%;
-  line-height: 1.6;
+.box1{
+     background-color: #000000;
+     border: 2px solid #06003a;  
+     border-radius: 8px;        
+     padding: 20px;             
+     margin: 20px 0;           
+     color: #ffffff;
+     font-size:x-large
+}
+hr{
+    height: 5px;
+    color: black;
+}
+footer{
+    border: 2px solid #a80000a2;
+    border-radius: 8px;        
+    background-color: rgb(0, 0, 0);
+    padding: 2px;
+    margin: 2px
 }
 
-/* Containers e Caixas */
-div {
-  background-color: rgb(0, 0, 0);
-  font-family: 'Times New Roman', Times, serif;
-  color: white;
-  padding: 10px;
-  margin: 10px 0;
-}
-
-/* Linhas Divisórias dos Planetas */
-hr {
-  height: 5px;
-  background-color: white; 
-  border: none;            
-  margin: 40px 0;
-}
-
-/* Rodapé da Página */
-footer {
-  background-color: rgb(55, 58, 61);
-  padding: 20px;
-  text-align: center;
-  margin-top: 50px;
-}
-
-h5 {
-  color: rgb(255, 255, 255);
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: xx-large;
-  margin: 0;
-}
