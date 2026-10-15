@@ -1,6 +1,6 @@
 (PI) - Independent Projects
 
-# 🪐 Orion — Interactive Solar System Guide
+# Sistema solar
 
 <p align="center">
   <img src="https://shields.io" alt="HTML5">
