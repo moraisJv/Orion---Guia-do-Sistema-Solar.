@@ -23,5 +23,6 @@ To bring the universe to life in the browser, only two essential tools were used
 * **CSS3:** To control the space-themed aesthetics, including the use of **Flexbox** to align images and elements on the screen.
 
 
-<img width="1286" height="492" alt="image" src="https://github.com/user-attachments/assets/31b384ce-e8f1-4239-a4c3-940f2caac93e" />
+<img width="1286" height="492" alt="image" src="https://github.com/user-attachments/assets/31b384ce-e8f1-4239-a4c3-940f2caac93e" /> <img width="1275" height="600" alt="image" src="https://github.com/user-attachments/assets/ade1baba-d021-485d-bd0a-a5a2f36f3a43" />
+
 
